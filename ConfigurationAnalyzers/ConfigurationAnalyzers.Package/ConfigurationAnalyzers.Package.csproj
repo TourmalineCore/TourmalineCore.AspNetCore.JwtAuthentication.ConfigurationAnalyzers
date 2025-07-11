@@ -10,7 +10,8 @@
   <PropertyGroup>
     <PackageId>TourmalineCore.AspNetCore.JwtAuthentication.ConfigurationAnalyzers</PackageId>
     <PackageVersion>0.1.1</PackageVersion>
-    <Authors>Vladislav Yusupov, Maxim Koval</Authors>
+    <Authors>Vladislav Yusupov, Maxim Koval, Aleksandr Petrakov</Authors>
+
     <Company>Tourmaline Core</Company>
     <Product>JwtAuthentication.ConfigurationAnalyzers</Product>
     <Description>
